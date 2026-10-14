@@ -1,0 +1,24 @@
+{
+  "masterToggle": true,
+  "allowInWater": false,
+  "flySprint": true,
+  "allowWhileSneaking": false,
+  "useBlur": true,
+  "panelThemeX": -104,
+  "panelThemeY": 17,
+  "panelMainX": 86,
+  "panelMainY": 17,
+  "panelConfigX": 416,
+  "panelConfigY": 17,
+  "theme": "VIBRANT_PURPLE",
+  "language": "en",
+  "sprintMode": "TOGGLE_SPRINT",
+  "keyBindings": {
+    "masterKey": 72,
+    "configKey": 71,
+    "waterKey": -1,
+    "flyKey": -1,
+    "blurKey": -1,
+    "resetGuiKey": -1
+  }
+}
